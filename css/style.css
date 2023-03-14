@@ -1,0 +1,32 @@
+.main {
+  margin: 2% 10%;
+  padding: 2%;
+  text-align: center;
+  background-color: rgb(177, 187, 187);
+}
+
+h1 {
+  margin: 2%;
+  color: rgb(31, 31, 88) !important;
+  text-align: center;
+  font-size: 10vh;
+}
+
+.form-text {
+  color: rgb(92, 5, 5) !important;
+}
+
+div label {
+  color: rgb(238, 9, 9);
+  font-size: x-large;
+}
+
+.form-check-label {
+  color: rgb(31, 31, 88);
+  font-size: large;
+}
+
+button, i {
+  color: rgb(31, 31, 88) !important;
+  background-color: greenyellow !important;
+}/*# sourceMappingURL=style.css.map */
